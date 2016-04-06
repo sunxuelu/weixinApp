@@ -1,0 +1,38 @@
+{
+	"index.html": {
+		"href": "index.html",
+		"resources": [
+			"css/swiper.min.css",
+			"css/style.css",
+			"js/swiper.min.js",
+			"js/my.js",
+			"img/musicBtn.png",
+			"img/musicBtnOff.png",
+			"img/arrow-up.png",
+			"img/1.jpg",
+			"img/2.jpg",
+			"img/3.jpg",
+			"img/4.jpg",
+			"img/5.jpg",
+			"img/6.jpg",
+			"img/7.jpg",
+			"img/8.jpg",
+			"img/9.jpg",
+			"img/10.jpg",
+			"js/swiper.animate1.0.2.min.js",
+			"js/snowfall.jquery.js",
+			"music/dragon-ball.mp3",
+			"img/next.png",
+			"css/animate.min.css",
+			"img/lllllll.png",
+			"js/jquery-1.2.6.min.js",
+			"img/file_5634354578f1b.png",
+			"js/swiper.animate-twice.min.js",
+			"img/te.png",
+			"img/ka.png",
+			"img/luo.png"
+		],
+		"refer": [],
+		"priority": 0
+	}
+}
